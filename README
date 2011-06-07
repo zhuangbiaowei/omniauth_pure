@@ -22,3 +22,5 @@ If you want to use Omniauth pure as a starting point in one of your applications
 * copy all views from services
 * copy (parts of) the stylesheet
 * and refer to the article for details...
+
+convert the project to user.teamhost.org
